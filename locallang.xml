@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for extension 'pagetreehighlight'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="cm1_page_title_activate">Mark page --&gt;</label>
+			<label index="cm1_branch_title_activate">Mark branch --&gt;</label>
+			<label index="cm1_page_title_activate_single">Mark page</label>
+			<label index="cm1_branch_title_activate_single">Mark branch</label>
+			<label index="cm1_label_color">Color</label>
+			<label index="cm1_label_clear">Clear marking</label>
+			<label index="cm1_label_clear_page">Clear page marking</label>
+			<label index="cm1_label_clear_branch">Clear branch marking</label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="cm1_page_title_activate">Markiere Seite --&gt;</label>
+			<label index="cm1_branch_title_activate">Markiere Zweig --&gt;</label>
+			<label index="cm1_label_color">Farbe</label>
+			<label index="cm1_label_clear">Markierung aufheben</label>
+			<label index="cm1_label_clear_page">Seiten Markierung aufheben</label>
+			<label index="cm1_label_clear_branch">Zweig Markierung aufheben</label>
+		</languageKey>
+	</data>
+</T3locallang>

@@ -1,0 +1,14 @@
+
+	# cat=basic; type=boolean; label=Enable default configuration: When set the default configuration will get set.
+defaultConfig = 1
+
+
+	# cat=basic; type=boolean; label=Single Color Box: When only a single color is availble if the colored box shall get shown (by default the icon will get shown)
+colorSingle = 0
+
+	# cat=basic; type=boolean; label=Single Label: When only a single color is availble if the label of the color will get shown
+labelSingle = 0
+	
+	
+advancedHighlight = 0
+
